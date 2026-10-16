@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+numpy
+Pillow
+ultralytics          # YOLO detector + ByteTrack
+google-cloud-firestore   # only for FirestoreRegistry
+google-cloud-storage     # only if reading data/checkpoints from GCS
+pytest
+rapidocr-onnxruntime

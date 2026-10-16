@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+upload_parts/
+cattle_id_code.zip
+demo_store/
+store/
+checkpoints/embedder.pt
+checkpoints/yolov8m.pt
